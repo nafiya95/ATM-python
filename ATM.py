@@ -46,3 +46,4 @@ elif choice == 3:
 elif choice == 4:
     obj1.exit()
     print("")
+    print("bye")
